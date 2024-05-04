@@ -1,1 +1,2 @@
-"# Mini-Project-AuthentiCheck---Fake-News-Detection-System" 
+"TY Mini-Project- AuthentiCheck: A Fake-News-Detection-System" 
+
