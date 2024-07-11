@@ -1,4 +1,4 @@
-TY Mini-Project - AuthentiCheck: A Fake News Detection System<br />
+TY Mini-Project - AuthentiCheck: A Fake News Detection System using Machine Learning<br />
 By Group 19-<br />
 16010421065 - Tanvi Natu<br />
 16010421044 - Veneet Kela<br />
