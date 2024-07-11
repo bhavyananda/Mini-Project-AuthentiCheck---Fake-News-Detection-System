@@ -21,8 +21,7 @@ Checking (For Fake News):
 ![image](https://github.com/tanvinatu/Mini-Project-AuthentiCheck---Fake-News-Detection-System/assets/113228384/f70959eb-4992-45a2-b785-d754d2bd6e18)
 
 Result:
-![image](https://github.com/tanvinatu/Mini-Project-AuthentiCheck---Fake-News-Detection-System/assets/113228384/b42db6f0-9dd4-45a1-8034-745d3bc09748)
-
+![image](https://github.com/tanvinatu/Mini-Project-AuthentiCheck---Fake-News-Detection-System/assets/113228384/322388e2-9a04-49a6-8625-8344a35b1eaf)
 
 
 
