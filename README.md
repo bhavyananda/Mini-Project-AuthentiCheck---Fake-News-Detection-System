@@ -15,7 +15,7 @@ Checking (For Real News):
 ![image](https://github.com/tanvinatu/Mini-Project-AuthentiCheck---Fake-News-Detection-System/assets/113228384/a5481955-9043-4fb1-a649-f1292d188d1c)
 
 Result:
-![image](https://github.com/tanvinatu/Mini-Project-AuthentiCheck---Fake-News-Detection-System/assets/113228384/ee260ce3-2f3a-440d-b8a9-09c5c4084a31)
+![image](https://github.com/tanvinatu/Mini-Project-AuthentiCheck---Fake-News-Detection-System/assets/113228384/0a5946a0-7d87-4a8a-83a4-17d4ba8b53b7)
 
 Checking (For Fake News):
 ![image](https://github.com/tanvinatu/Mini-Project-AuthentiCheck---Fake-News-Detection-System/assets/113228384/f70959eb-4992-45a2-b785-d754d2bd6e18)
